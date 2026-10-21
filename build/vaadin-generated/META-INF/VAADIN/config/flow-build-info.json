@@ -1,0 +1,18 @@
+{
+  "productionMode" : false,
+  "eagerServerLoad" : false,
+  "npmFolder" : "D:\\LAB3\\gs-crud-with-vaadin\\complete",
+  "node.version" : "v24.13.1",
+  "node.download.root" : "https://nodejs.org/dist/",
+  "frontendFolder" : "D:\\LAB3\\gs-crud-with-vaadin\\complete\\.\\src\\main\\frontend",
+  "connect.javaSourceFolder" : "D:\\LAB3\\gs-crud-with-vaadin\\complete\\src\\main\\java",
+  "javaResourceFolder" : "D:\\LAB3\\gs-crud-with-vaadin\\complete\\src\\main\\resources",
+  "connect.applicationProperties" : "D:\\LAB3\\gs-crud-with-vaadin\\complete\\src\\main\\resources\\application.properties",
+  "connect.openApiFile" : "D:\\LAB3\\gs-crud-with-vaadin\\complete\\build\\generated-resources\\openapi.json",
+  "project.frontend.generated" : "D:\\LAB3\\gs-crud-with-vaadin\\complete\\.\\src\\main\\frontend\\generated",
+  "pnpm.enable" : false,
+  "bun.enable" : false,
+  "require.home.node" : false,
+  "build.folder" : "build",
+  "react.enable" : true
+}
